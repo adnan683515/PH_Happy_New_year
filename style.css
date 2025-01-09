@@ -1,0 +1,149 @@
+header {
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgb(0, 0, 0) -10.5%, rgba(16, 16, 16, 0) 100.034%), url("/images/banner.png");
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.bd {
+    width: 1320px;
+    margin: auto;
+}
+
+/* Appearance Fonts */
+
+.work-sans-appearance {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+/* fonts */
+
+
+
+
+
+.banner_title,
+.work-sans-appearance_1 {
+    color: #FFFFFF;
+    font-size: 30px;
+    margin-bottom: 18px;
+}
+
+.banner_sub_title,
+.work-sans-appearance {
+    color: #FFFFFF;
+    font-size: 60px;
+    letter-spacing: 0%;
+    line-height: 50px;
+}
+
+.banner_box {
+    width: 600px;
+    text-align: center;
+}
+
+.banner_down_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.parcentage_box {
+    width: 800px;
+    height: auto;
+    text-align: center;
+}
+
+.parsentage_text,
+.work-sans-appearance {
+    font-size: 80px;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.parcenteage_box_sbuttilte {
+    color: #FF0000;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.All_cetagory_text {
+    color: black;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.welcome_section {
+    /* background-image: url("images/Vectorrr.png"); */
+    background: linear-gradient(90deg, rgb(0, 0, 0) -0.5%, rgba(16, 16, 16, 0) 100.034%), url("images/Vectorrr.png");
+    height: 600px;
+    width: 100%;
+    margin-bottom: 50px;
+    color: #FFFFFF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.welcome_text_box {
+
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+.welcome_box_title{
+    font-size: 60px;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    line-height: 80px;
+    margin-bottom: 20px;
+}
+.welcome_box_masege{
+    line-height: 20px;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.join_now{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
