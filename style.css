@@ -124,7 +124,8 @@ header {
     padding-left: 50px;
     padding-bottom: 200px;
 }
-.welcome_box_title{
+
+.welcome_box_title {
     font-size: 60px;
     font-family: "Work Sans", serif;
     font-optical-sizing: auto;
@@ -132,7 +133,8 @@ header {
     line-height: 80px;
     margin-bottom: 20px;
 }
-.welcome_box_masege{
+
+.welcome_box_masege {
     line-height: 20px;
     font-family: "Work Sans", serif;
     font-optical-sizing: auto;
@@ -140,7 +142,7 @@ header {
     margin-bottom: 20px;
 }
 
-.join_now{
+.join_now {
     text-decoration: none;
     color: #FFFFFF;
     font-family: "Work Sans", serif;
@@ -148,7 +150,7 @@ header {
     font-style: normal;
 }
 
-.welcome_downn_section{
+.welcome_downn_section {
     border-radius: 5px;
     margin: 100px auto;
     width: 100%;
@@ -162,14 +164,14 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: linear-gradient( 180deg, rgb(252, 227, 227),rgb(255, 255, 255));
+    background: linear-gradient(180deg, rgb(252, 227, 227), rgb(255, 255, 255));
 }
 
-.welcome_down_section_title{
+.welcome_down_section_title {
     color: #FF0000;
 }
 
-.button_join{
+.button_join {
     background-color: #FF0000;
     border: none;
     padding: 20px;
@@ -180,7 +182,7 @@ header {
 
 }
 
-.offer_Box_coming_section{
+.offer_Box_coming_section {
     display: flex;
     justify-self: center;
     align-items: center;
@@ -190,15 +192,15 @@ header {
     margin-bottom: 100px;
 }
 
-.offer_Box_coming_soon{
+.offer_Box_coming_soon {
     display: flex;
     justify-content: center;
     align-items: center;
     justify-content: space-around;
-    
+
 }
 
-.offer_box_inside{
+.offer_box_inside {
     display: flex;
     flex-direction: column;
     row-gap: 10px;
@@ -207,7 +209,7 @@ header {
     float: left;
 }
 
-.img_ooffer_manus{
+.img_ooffer_manus {
 
     width: 270px;
     border-radius: 50%;
@@ -215,25 +217,108 @@ header {
     border: 10px solid #FF0000;
 }
 
-.new_best_text{
+.new_best_text {
     color: #FF0000;
     font-size: large;
     font-weight: 500;
 }
-.comming_soong{
+
+.comming_soong {
     font-size: xx-large;
     font-weight: 700;
     margin: 10px auto;
 }
-.iamge_center{
+
+.iamge_center {
     margin: 0 20px;
 }
 
-.year_text{
+.year_text {
     color: #FF0000;
     font-weight: 600;
     font-size: 45px;
 }
-.offer_box_mass{
+
+.offer_box_mass {
     margin: 10px 0;
+}
+
+.grift_box {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    justify-content: space-around;
+    background: url("/images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 60px 0;
+}
+
+.discount_img {
+    width: 250px;
+    border: none;
+    margin: -10px;
+}
+
+.box_grift {
+
+    border: none;
+    background: none;
+
+}
+
+.HOliday_text_box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.holy_text_all {
+    text-align: center;
+    line-height: 25px;
+
+}
+
+.holy_title {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.holiy_span {
+    color: #FF0000;
+
+}
+
+.holy_subtitle {
+    margin: 10px 0;
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 35px;
+}
+
+.welcome_midnight_txt{
+    color: rgba(242, 241, 244, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    margin-bottom: 5px;
+    /* text-align: center; */
+}
+
+.holy_massegeg {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
 }
