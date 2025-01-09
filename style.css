@@ -245,10 +245,8 @@ header {
 
 .grift_box {
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
     justify-content: space-around;
-    background: url("images//Rectangle\ 2.png");
+    background: url("./images/red_backround.png");
     background-repeat: no-repeat;
     background-position: bottom;
     margin: 60px 0;
