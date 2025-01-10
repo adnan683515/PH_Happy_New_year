@@ -405,5 +405,6 @@ footer{
     padding:20px 30px;
     background: none;
     background-color: #ff0000;
+    border: none;
     color: #ffffff;
 }
